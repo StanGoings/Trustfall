@@ -1,0 +1,1455 @@
+﻿Log file open, 01/28/18 12:45:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TrustFall
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-190966247) SRandInit(-190966247).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.153928
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.28-18.45.29:356][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-18.45.29:356][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-18.45.29:394][  0]LogInit: Computer: THE-MONOLITH
+[2018.01.28-18.45.29:394][  0]LogInit: User: Stan
+[2018.01.28-18.45.29:394][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-18.45.29:394][  0]LogInit: High frequency timer resolution =3.914064 MHz
+[2018.01.28-18.45.29:395][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.28-18.45.29:395][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-18.45.29:395][  0]LogMemory: Process Physical Memory: 277.98 MB used, 277.98 MB peak
+[2018.01.28-18.45.29:395][  0]LogMemory: Process Virtual Memory: 274.24 MB used, 274.24 MB peak
+[2018.01.28-18.45.29:395][  0]LogMemory: Physical Memory: 4716.49 MB used,  11582.63 MB free, 16299.11 MB total
+[2018.01.28-18.45.29:395][  0]LogMemory: Virtual Memory: 706.91 MB used,  11582.63 MB free, 134217728.00 MB total
+[2018.01.28-18.45.29:526][  0]LogInit: Using OS detected language (en-US).
+[2018.01.28-18.45.29:526][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.28-18.45.29:528][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.28-18.45.29:983][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-18.45.30:024][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.01.28-18.45.30:024][  0]LogD3D11RHI:       6061/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.28-18.45.30:026][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-18.45.30:026][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-18.45.30:026][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-18.45.30:030][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-18.45.30:030][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-18.45.30:030][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-18.45.30:030][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.01.28-18.45.30:030][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.28-18.45.30:030][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.28-18.45.30:031][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.01.28-18.45.30:031][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.28-18.45.30:031][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.01.28-18.45.30:031][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.28-18.45.30:031][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.28-18.45.30:031][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.28-18.45.30:050][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-18.45.30:101][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.28-18.45.30:151][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Intermediate/Shaders/WorkingDirectory/10752/).
+[2018.01.28-18.45.30:151][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stan/AppData/Local/Temp/UnrealShaderWorkingDir/04B9AD06447423CFCE604393ACC5CB91/'.
+[2018.01.28-18.45.30:151][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-18.45.30:815][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-18.45.30:849][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-18.45.30:883][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-18.45.30:919][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-18.45.30:953][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-18.45.30:988][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-18.45.31:022][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-18.45.31:056][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-18.45.31:086][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-18.45.31:120][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-18.45.31:153][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-18.45.31:186][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-18.45.31:220][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-18.45.31:254][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-18.45.31:289][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-18.45.31:356][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-18.45.31:356][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-18.45.31:382][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-18.45.31:451][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-18.45.31:472][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-18.45.31:506][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-18.45.31:540][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-18.45.31:574][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-18.45.31:608][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-18.45.31:608][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-18.45.31:927][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-18.45.31:984][  0]LogDerivedDataCache: Loaded boot cache 0.06s 93MB C:/Users/Stan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.28-18.45.31:984][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.28-18.45.31:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-18.45.31:984][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-18.45.31:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-18.45.31:984][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-18.45.31:995][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-18.45.32:007][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-18.45.32:015][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-18.45.32:015][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-18.45.32:016][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-18.45.32:016][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-18.45.32:207][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.01.28-18.45.32:287][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-18.45.32:376][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.28-18.45.32:607][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-18.45.32:634][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-18.45.32:634][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-18.45.32:634][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-18.45.32:634][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-18.45.32:634][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-18.45.32:859][  0]LogNetVersion: TrustFall , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3406003647)
+[2018.01.28-18.45.33:021][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.054691 seconds
+[2018.01.28-18.45.33:029][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.28-18.45.33:029][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.01.28-18.45.33:029][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-18.45.33:078][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-18.45.34:956][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-18.45.34:985][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-18.45.35:490][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-18.45.35:770][  0]SourceControl: Source control is disabled
+[2018.01.28-18.45.35:770][  0]SourceControl: Source control is disabled
+[2018.01.28-18.45.35:803][  0]SourceControl: Source control is disabled
+[2018.01.28-18.45.35:834][  0]SourceControl: Source control is disabled
+[2018.01.28-18.45.36:231][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-18.45.36:387][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-18.45.36:558][  0]LogEngine: Initializing Engine...
+[2018.01.28-18.45.36:560][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-18.45.36:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-18.45.36:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-18.45.36:800][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-18.45.36:809][  0]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-18.45.36:824][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-18.45.36:901][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/Stan/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.28-18.45.36:919][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-18.45.37:005][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-18.45.37:181][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-18.45.37:392][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-18.45.38:209][  0]LocalizationService: Localization service is disabled
+[2018.01.28-18.45.38:772][  0]LogConsoleResponse: Display: 
+[2018.01.28-18.45.38:896][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-18.45.38:896][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-18.45.38:896][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-18.45.39:575][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/' took 0.02s
+[2018.01.28-18.45.39:575][  0]SourceControl: Source control is disabled
+[2018.01.28-18.45.39:575][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-18.45.39:579][  0]LightingResults: New page: Lighting Build
+[2018.01.28-18.45.39:607][  0]MapCheck: New page: Map Check
+[2018.01.28-18.45.39:607][  0]LightingResults: New page: Lighting Build
+[2018.01.28-18.45.39:999][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.28-18.45.40:009][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-18.45.40:024][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-18.45.40:057][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.416ms to complete.
+[2018.01.28-18.45.40:057][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.482
+[2018.01.28-18.45.40:288][  0]LogCollectionManager: Loaded 0 collections in 0.001032 seconds
+[2018.01.28-18.45.40:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Collections/' took 0.01s
+[2018.01.28-18.45.40:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Developers/Stan/Collections/' took 0.01s
+[2018.01.28-18.45.40:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Collections/' took 0.01s
+[2018.01.28-18.45.40:402][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.28-18.45.40:410][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2386 classes and 500 folders.
+[2018.01.28-18.45.40:454][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.01.28-18.45.40:682][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.28-18.45.40:715][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-18.45.40:858][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-18.45.40:860][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-18.45.40:870][  0]LogSlate: Took 0.004576 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-18.45.40:970][  0]LogRenderer: Reallocating scene render targets to support 740x372 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-18.45.41:013][  0]LogSlate: Took 0.003428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-18.45.41:262][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-18.45.41:262][  0]LogLoad: (Engine Initialization) Total time: 13.16 seconds
+[2018.01.28-18.45.41:262][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-18.45.41:263][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-18.45.41:271][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-18.45.41:289][  0]LogAssetRegistry: Asset discovery search completed in 9.1043 seconds
+[2018.01.28-18.45.41:291][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.28-18.45.41:291][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2018.01.28-18.45.41:293][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.28-18.46.17:815][142]Cmd: MAP LOAD FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-18.46.17:820][142]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-18.46.17:828][142]LightingResults: New page: Lighting Build
+[2018.01.28-18.46.17:828][142]LoadErrors: New page: Loading map: TrustFall3.umap
+[2018.01.28-18.46.17:831][142]MapCheck: New page: Map Check
+[2018.01.28-18.46.17:831][142]LightingResults: New page: Lighting Build
+[2018.01.28-18.46.17:993][142]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-18.46.18:063][142]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-18.46.18:107][142]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-18.46.18:141][142]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 34.539ms to complete.
+[2018.01.28-18.46.18:141][142]LogFileHelpers: Loading map 'TrustFall3' took 0.328
+[2018.01.28-20.12.55:373][157]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-20.12.55:423][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.12.55:423][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-20.12.55:424][157]PIE: New page: PIE session: TrustFall3 (Jan 28, 2018, 8:12:55 AM)
+[2018.01.28-20.12.55:424][157]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall3
+[2018.01.28-20.12.55:438][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013468s)
+[2018.01.28-20.12.55:438][157]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.12.55:439][157]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2018.01.28-20.12.55:439][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall3.TrustFall3 to /Game/UEDPIE_0_TrustFall3.TrustFall3 (0.014748s)
+[2018.01.28-20.12.55:452][157]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-20.12.55:457][157]LogInit: FAudioDevice initialized.
+[2018.01.28-20.12.55:497][157]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-20.12.55:501][157]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall3.TrustFall3 up for play (max tick rate 0) at 2018.01.28-14.12.55
+[2018.01.28-20.12.55:502][157]LogWorld: Bringing up level for play took: 0.003467
+[2018.01.28-20.12.55:551][157]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.01.28-20.12.55:552][157]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall3 -0.111
+[2018.01.28-20.12.55:552][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.13.01:772][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.13.01:806][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.13.06:562][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-20.13.06:575][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.13.06:575][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-20.13.06:575][460]PIE: New page: PIE session: TrustFall3 (Jan 28, 2018, 8:13:06 AM)
+[2018.01.28-20.13.06:575][460]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall3
+[2018.01.28-20.13.06:585][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009918s)
+[2018.01.28-20.13.06:586][460]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.13.06:586][460]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2018.01.28-20.13.06:586][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall3.TrustFall3 to /Game/UEDPIE_0_TrustFall3.TrustFall3 (0.010712s)
+[2018.01.28-20.13.06:598][460]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-20.13.06:602][460]LogInit: FAudioDevice initialized.
+[2018.01.28-20.13.06:631][460]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-20.13.06:634][460]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall3.TrustFall3 up for play (max tick rate 0) at 2018.01.28-14.13.06
+[2018.01.28-20.13.06:634][460]LogWorld: Bringing up level for play took: 0.002756
+[2018.01.28-20.13.06:635][460]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall3 0.972
+[2018.01.28-20.13.06:635][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.13.14:900][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.13.14:926][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.15.01:603][204]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2018.01.28-20.15.02:100][204]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-20.15.02:175][204]LogSlate: Took 0.003110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-20.15.02:319][205]LogSlate: Took 0.003124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-20.17.08:521][186]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-20.17.08:540][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.08:540][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-20.17.08:540][186]PIE: New page: PIE session: TrustFall3 (Jan 28, 2018, 8:17:08 AM)
+[2018.01.28-20.17.08:540][186]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall3
+[2018.01.28-20.17.08:552][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011778s)
+[2018.01.28-20.17.08:552][186]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.17.08:553][186]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.01.28-20.17.08:553][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall3.TrustFall3 to /Game/UEDPIE_0_TrustFall3.TrustFall3 (0.012747s)
+[2018.01.28-20.17.08:571][186]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-20.17.08:576][186]LogInit: FAudioDevice initialized.
+[2018.01.28-20.17.08:605][186]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-20.17.08:608][186]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall3.TrustFall3 up for play (max tick rate 0) at 2018.01.28-14.17.08
+[2018.01.28-20.17.08:608][186]LogWorld: Bringing up level for play took: 0.002725
+[2018.01.28-20.17.08:609][186]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall3 0.946
+[2018.01.28-20.17.08:609][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.12:084][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.12:120][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.15:270][956]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-20.17.15:283][956]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.15:283][956]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-20.17.15:283][956]PIE: New page: PIE session: TrustFall3 (Jan 28, 2018, 8:17:15 AM)
+[2018.01.28-20.17.15:283][956]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall3
+[2018.01.28-20.17.15:294][956]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010832s)
+[2018.01.28-20.17.15:295][956]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.17.15:295][956]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.01.28-20.17.15:295][956]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall3.TrustFall3 to /Game/UEDPIE_0_TrustFall3.TrustFall3 (0.012003s)
+[2018.01.28-20.17.15:311][956]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-20.17.15:316][956]LogInit: FAudioDevice initialized.
+[2018.01.28-20.17.15:343][956]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-20.17.15:346][956]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall3.TrustFall3 up for play (max tick rate 0) at 2018.01.28-14.17.15
+[2018.01.28-20.17.15:346][956]LogWorld: Bringing up level for play took: 0.002716
+[2018.01.28-20.17.15:347][956]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall3 -0.316
+[2018.01.28-20.17.15:347][956]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.46:981][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.47:015][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.57:153][953]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-20.17.57:167][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.17.57:167][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-20.17.57:167][953]PIE: New page: PIE session: TrustFall3 (Jan 28, 2018, 8:17:57 AM)
+[2018.01.28-20.17.57:167][953]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall3
+[2018.01.28-20.17.57:177][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009913s)
+[2018.01.28-20.17.57:177][953]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.17.57:177][953]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2018.01.28-20.17.57:177][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall3.TrustFall3 to /Game/UEDPIE_0_TrustFall3.TrustFall3 (0.010664s)
+[2018.01.28-20.17.57:218][953]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-20.17.57:222][953]LogInit: FAudioDevice initialized.
+[2018.01.28-20.17.57:251][953]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-20.17.57:253][953]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall3.TrustFall3 up for play (max tick rate 0) at 2018.01.28-14.17.57
+[2018.01.28-20.17.57:254][953]LogWorld: Bringing up level for play took: 0.002665
+[2018.01.28-20.17.57:255][953]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall3 -0.409
+[2018.01.28-20.17.57:255][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.18.13:037][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.18.13:095][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall3.TrustFall3:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3' with GeneratedClass '/Game/TrustFall3.TrustFall3_C' with ClassGeneratedBy '/Game/TrustFall3.TrustFall3:PersistentLevel.TrustFall3'
+[2018.01.28-20.18.16:144][193]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.28-20.18.16:250][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.28-20.18.16:432][193]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.28-20.18.16:668][193]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.01.28-20.18.16:681][193]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.20.06:760][761]LogSavePackage: Save=88.77ms
+[2018.01.28-20.20.06:760][761]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBPE31C9285459EF3D070678CB31FC036F2.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-20.20.06:764][761]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-20.25.23:655][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.01.28-20.25.23:677][168]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.01.28-20.25.23:913][168]LogRenderer: Reallocating scene render targets to support 808x372 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-20.25.23:913][168]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.25.31:991][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.01.28-20.25.32:153][ 67]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.01.28-20.25.32:377][ 67]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.27.13:549][745]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-20.27.13:566][745]LogBlueprint: Warning: [Compiler Character_AnimBP] Falling_Start to Falling  will never be taken, please connect something to  Can Enter Transition
+[2018.01.28-20.27.13:654][745]LogBlueprint: Warning: [Compiler Character_AnimBP] [6105.55] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 104 ms] (/Game/Mannequin/Character/Character_AnimBP.Character_AnimBP)
+[2018.01.28-20.27.19:501][414]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-20.27.19:517][414]LogBlueprint: Warning: [Compiler Character_AnimBP] Falling_Start to Falling  will never be taken, please connect something to  Can Enter Transition
+[2018.01.28-20.27.19:591][414]LogBlueprint: Warning: [Compiler Character_AnimBP] [6111.49] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 89 ms] (/Game/Mannequin/Character/Character_AnimBP.Character_AnimBP)
+[2018.01.28-20.28.10:577][498]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.01.28-20.28.10:598][498]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.01.28-20.28.10:811][498]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.29.32:733][979]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-20.29.32:749][979]LogBlueprint: Warning: [Compiler Character_AnimBP] Falling_Start to Falling  will never be taken, please connect something to  Can Enter Transition
+[2018.01.28-20.29.32:827][979]LogBlueprint: Warning: [Compiler Character_AnimBP] [6244.72] Compile of Character_AnimBP successful, but with 1 Warning(s) [in 94 ms] (/Game/Mannequin/Character/Character_AnimBP.Character_AnimBP)
+[2018.01.28-20.34.47:617][295]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-20.38.45:541][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.01.28-20.38.45:563][753]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_4.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.01.28-20.38.45:817][753]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.40.44:264][801]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TrustFall
+[2018.01.28-20.40.44:264][801]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.01.28-20.40.44:264][801]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.01.28-20.40.44:264][801]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.01.28-20.40.44:264][801]LogTemp: BranchPath = THE-MONOLITH/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = THE-MONOLITH/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.01.28-20.40.44:292][803]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Stan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.28-20.45.25:612][722]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.01.28-20.45.27:098][722]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-20.45.27:527][722]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-20.45.27:531][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrustFall4" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-20.45.27:596][722]LogSavePackage: Save=50.34ms
+[2018.01.28-20.45.27:596][722]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4A407F7C645F328E6E5356B9BAED55C3F.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap'
+[2018.01.28-20.45.27:598][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap
+[2018.01.28-20.45.27:603][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrustFall4_BuiltData" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset" SILENT=true
+[2018.01.28-20.45.27:696][722]LogSavePackage: Save=78.38ms
+[2018.01.28-20.45.27:696][722]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4_BuiltDataE0081C9B460FE8F01C05D8B77C27D23A.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset'
+[2018.01.28-20.45.27:697][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset
+[2018.01.28-20.45.27:700][722]LogFileHelpers: Saving map 'TrustFall4' took 0.738
+[2018.01.28-20.45.27:701][722]Cmd: MAP LOAD FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-20.45.27:706][722]LightingResults: New page: Lighting Build
+[2018.01.28-20.45.27:706][722]LoadErrors: New page: Loading map: TrustFall4.umap
+[2018.01.28-20.45.27:735][722]MapCheck: New page: Map Check
+[2018.01.28-20.45.27:735][722]LightingResults: New page: Lighting Build
+[2018.01.28-20.45.27:820][722]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-20.45.27:860][722]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-20.45.27:901][722]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.037ms to complete.
+[2018.01.28-20.45.27:901][722]LogFileHelpers: Loading map 'TrustFall4' took 0.201
+[2018.01.28-20.45.42:013][403]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2018.01.28-20.45.42:042][403]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_5.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2018.01.28-20.45.42:269][403]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.46.58:851][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_6.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.01.28-20.46.59:014][557]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_6.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2018.01.28-20.46.59:206][557]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.48.02:342][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.48.02:370][ 14]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2018.01.28-20.48.02:595][ 14]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.55.04:191][ 68]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.04:191][ 68]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-20.55.04:268][ 68]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.07:306][408]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.07:306][408]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.07:377][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.08:438][518]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.08:438][518]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.08:509][518]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.09:076][584]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.09:076][584]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.09:146][584]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.10:613][758]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.10:613][758]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.10:685][758]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.11:510][855]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.11:510][855]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.11:580][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.12:006][904]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.12:006][904]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-20.55.12:076][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.12:531][956]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.12:531][956]LogEditorTransaction: Undo Removing Blend Grid Sample
+[2018.01.28-20.55.12:604][956]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.14:201][138]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.14:201][138]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-20.55.14:272][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.15:240][251]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.15:240][251]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-20.55.15:311][251]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.15:896][319]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.15:896][319]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.15:968][319]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.16:885][423]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.16:885][423]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.16:955][423]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.17:426][477]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.17:426][477]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.17:497][477]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.17:885][521]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.17:885][521]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2018.01.28-20.55.17:956][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.18:544][587]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.18:544][587]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.18:616][587]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.19:327][668]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.19:327][668]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.19:397][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.19:784][712]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.19:784][712]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.19:854][712]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.20:223][754]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.20:224][754]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.20:295][754]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.20:640][793]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.20:640][793]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.20:710][793]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.21:005][826]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.21:005][826]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.21:076][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.21:351][857]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.21:351][857]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.21:423][857]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.21:700][886]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.21:700][886]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.21:772][886]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.21:976][908]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.21:976][908]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-20.55.22:046][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.22:271][933]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.22:271][933]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-20.55.22:343][933]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.22:582][959]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.22:582][959]LogEditorTransaction: Undo Removing Blend Grid Sample
+[2018.01.28-20.55.22:653][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.23:269][ 29]Cmd: TRANSACTION UNDO
+[2018.01.28-20.55.23:269][ 29]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2018.01.28-20.55.23:340][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_7.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.01.28-20.55.28:575][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.28-20.55.30:197][810]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.Actor_8.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2018.01.28-20.55.30:226][810]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.Actor_8.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2018.01.28-20.55.30:467][810]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.56.26:911][903]Cmd: MAP LOAD FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-20.56.26:916][903]LightingResults: New page: Lighting Build
+[2018.01.28-20.56.26:917][903]LoadErrors: New page: Loading map: TrustFall3.umap
+[2018.01.28-20.56.26:918][903]MapCheck: New page: Map Check
+[2018.01.28-20.56.26:918][903]LightingResults: New page: Lighting Build
+[2018.01.28-20.56.26:961][903]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.56.27:047][903]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-20.56.27:086][903]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-20.56.27:129][903]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.203ms to complete.
+[2018.01.28-20.56.27:129][903]LogFileHelpers: Loading map 'TrustFall3' took 0.219
+[2018.01.28-20.56.31:429][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.Actor_9.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.01.28-20.56.31:458][415]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.Actor_9.DebugSkelMeshComponent_20) - call TermArticulated first.
+[2018.01.28-20.56.31:675][415]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-20.58.25:618][413]Cmd: MAP LOAD FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-20.58.25:623][413]LightingResults: New page: Lighting Build
+[2018.01.28-20.58.25:623][413]LoadErrors: New page: Loading map: TrustFall3.umap
+[2018.01.28-20.58.25:624][413]MapCheck: New page: Map Check
+[2018.01.28-20.58.25:624][413]LightingResults: New page: Lighting Build
+[2018.01.28-20.58.25:667][413]LogAIModule: Creating AISystem for world TrustFall3
+[2018.01.28-20.58.25:768][413]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-20.58.25:807][413]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-20.58.25:850][413]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.651ms to complete.
+[2018.01.28-20.58.25:850][413]LogFileHelpers: Loading map 'TrustFall3' took 0.232
+[2018.01.28-20.58.29:400][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_10.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.01.28-20.58.29:428][836]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_10.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2018.01.28-20.58.29:647][836]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.02.10:989][830]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_11.DebugSkelMeshComponent_24) Already registered. Aborting.
+[2018.01.28-21.02.11:017][830]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.Actor_11.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2018.01.28-21.02.11:238][830]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.04.23:328][189]LogLinker: Warning: Can't find file '/Game/FallingForward'
+[2018.01.28-21.04.23:328][189]LogLinker: Warning: Can't find file '/Game/FallingForward'
+[2018.01.28-21.04.23:328][189]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FallingForward.FallingForward'
+[2018.01.28-21.04.34:001][457]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FallingForward.FallingForward
+[2018.01.28-21.06.42:532][459]LogLinker: Warning: Can't find file '/Game/Falling_Back'
+[2018.01.28-21.06.42:532][459]LogLinker: Warning: Can't find file '/Game/Falling_Back'
+[2018.01.28-21.06.42:532][459]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Back.Falling_Back'
+[2018.01.28-21.06.52:960][696]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Back.Falling_Back
+[2018.01.28-21.08.38:663][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.08.38:691][562]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) - call TermArticulated first.
+[2018.01.28-21.08.38:914][562]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.10.43:783][ 96]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.43:783][ 96]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.43:784][ 96]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.45:486][260]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.45:486][260]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.45:486][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.46:441][364]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.46:441][364]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.46:442][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.47:888][515]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.47:888][515]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.47:888][515]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.48:535][582]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.48:535][582]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.48:535][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.49:198][651]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.49:198][651]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.49:199][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.49:745][706]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.49:745][706]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-21.10.49:746][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.50:725][812]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.50:725][812]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.50:726][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.51:363][877]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.51:363][877]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.51:364][877]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.51:814][920]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.51:814][920]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.51:814][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.52:236][960]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.52:236][960]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.52:237][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.52:575][990]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.52:575][990]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-21.10.52:576][990]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.53:130][ 45]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.53:130][ 45]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.53:131][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.53:543][ 83]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.53:543][ 83]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.53:544][ 83]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.54:057][134]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.54:057][134]LogEditorTransaction: Undo Set Key
+[2018.01.28-21.10.54:061][134]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.54:485][173]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.54:485][173]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.54:486][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.55:356][266]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.55:357][266]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.55:357][266]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.55:910][313]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.55:911][313]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.55:911][313]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.56:347][350]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.56:347][350]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.56:348][350]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.56:665][373]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.56:665][373]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-21.10.56:665][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.56:969][398]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.56:969][398]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.56:969][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.57:524][453]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.57:524][453]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.57:524][453]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.57:938][492]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.57:938][492]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.10.57:938][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.10.58:329][524]Cmd: TRANSACTION UNDO
+[2018.01.28-21.10.58:329][524]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-21.10.58:329][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.13.22:523][351]Cmd: TRANSACTION UNDO
+[2018.01.28-21.13.22:523][351]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2018.01.28-21.13.22:523][351]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.13.22:712][360]Cmd: TRANSACTION UNDO
+[2018.01.28-21.13.22:712][360]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.13.22:713][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.13.23:123][391]Cmd: TRANSACTION UNDO
+[2018.01.28-21.13.23:123][391]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.13.23:124][391]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.13.23:361][409]Cmd: TRANSACTION UNDO
+[2018.01.28-21.13.23:361][409]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.13.23:362][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.13.23:516][417]Cmd: TRANSACTION UNDO
+[2018.01.28-21.13.23:516][417]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-21.13.23:517][417]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.13.23:686][426]Cmd: TRANSACTION UNDO
+[2018.01.28-21.13.23:686][426]LogEditorTransaction: Undo Rotate Bone
+[2018.01.28-21.13.23:686][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.Actor_12.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.01.28-21.14.10:939][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.Actor_13.DebugSkelMeshComponent_28) Already registered. Aborting.
+[2018.01.28-21.14.10:968][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.Actor_13.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2018.01.28-21.14.11:233][  5]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.18.02:744][825]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_14.DebugSkelMeshComponent_30) Already registered. Aborting.
+[2018.01.28-21.18.02:773][825]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_14.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2018.01.28-21.18.03:032][825]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.19.23:455][390]LogSavePackage: Save=15.13ms
+[2018.01.28-21.19.23:455][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_8640688EA4FE81EC63BCB59BC1B84808A.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_8.uasset'
+[2018.01.28-21.19.23:458][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_8.uasset
+[2018.01.28-21.19.23:486][390]LogSavePackage: Save=15.56ms
+[2018.01.28-21.19.23:486][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_98A7737AB43B778E0E6E278B4EFC5E7D9.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_9.uasset'
+[2018.01.28-21.19.23:488][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_9.uasset
+[2018.01.28-21.19.23:515][390]LogSavePackage: Save=15.31ms
+[2018.01.28-21.19.23:515][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_107162811441B42563AE020EA2CB780025.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_10.uasset'
+[2018.01.28-21.19.23:516][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_10.uasset
+[2018.01.28-21.19.23:542][390]LogSavePackage: Save=14.89ms
+[2018.01.28-21.19.23:542][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_11AA8140144D3A8764737D3EBF06251794.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_11.uasset'
+[2018.01.28-21.19.23:544][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_11.uasset
+[2018.01.28-21.19.23:572][390]LogSavePackage: Save=15.42ms
+[2018.01.28-21.19.23:572][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_12E5DCED2044A75A8B3C068C8A07FA5196.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_12.uasset'
+[2018.01.28-21.19.23:573][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_12.uasset
+[2018.01.28-21.19.23:599][390]LogSavePackage: Save=14.71ms
+[2018.01.28-21.19.23:599][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_133983F3644CCD932EB61324A416F8ED5B.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_13.uasset'
+[2018.01.28-21.19.23:602][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_13.uasset
+[2018.01.28-21.19.23:941][390]LogSavePackage: Save=10.85ms
+[2018.01.28-21.19.23:941][390]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Jump_Loop_to_Freefall16A67ECF4CF1972A8722C49D2E81189E.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/Jump_Loop_to_Freefall.uasset'
+[2018.01.28-21.19.23:942][390]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/Jump_Loop_to_Freefall.uasset
+[2018.01.28-21.19.36:324][859]LogSavePackage: Save=15.85ms
+[2018.01.28-21.19.36:324][859]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_Falling_7B79BB17F4D1E003AA5EE6ABCAB8FAC04.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_7.uasset'
+[2018.01.28-21.19.36:326][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_Falling_7.uasset
+[2018.01.28-21.19.57:547][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_15.DebugSkelMeshComponent_32) Already registered. Aborting.
+[2018.01.28-21.19.57:576][381]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.Actor_15.DebugSkelMeshComponent_32) - call TermArticulated first.
+[2018.01.28-21.19.57:797][381]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.20.12:513][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.Actor_16.DebugSkelMeshComponent_34) Already registered. Aborting.
+[2018.01.28-21.20.12:542][101]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.Actor_16.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2018.01.28-21.20.12:769][101]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.22.19:756][117]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall3' took 0.010
+[2018.01.28-21.22.19:758][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_AnimBP] ([1] browsable assets)...
+[2018.01.28-21.22.19:766][117]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Character/Character_AnimBP.Character_AnimBP]
+[2018.01.28-21.22.19:766][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_AnimBP]
+[2018.01.28-21.22.19:879][117]LogSavePackage: Save=104.20ms
+[2018.01.28-21.22.19:879][117]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP_Auto1E37A0F1A41D0B281601C5B97B9566E38.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto1.uasset'
+[2018.01.28-21.22.19:883][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto1.uasset
+[2018.01.28-21.22.19:883][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/TrustFall_FallingForward_5] ([1] browsable assets)...
+[2018.01.28-21.22.19:899][117]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Mannequin/Animations/TrustFall_FallingForward_5.TrustFall_FallingForward_5]
+[2018.01.28-21.22.19:899][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/TrustFall_FallingForward_5]
+[2018.01.28-21.22.19:932][117]LogSavePackage: Save=17.78ms
+[2018.01.28-21.22.19:932][117]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_FallingForward_5_Auto1AC1DC5A148510D07AEDCC1882F268A02.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Animations/TrustFall_FallingForward_5_Auto1.uasset'
+[2018.01.28-21.22.19:933][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Animations/TrustFall_FallingForward_5_Auto1.uasset
+[2018.01.28-21.22.19:934][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/TrustFall_FreeFall] ([1] browsable assets)...
+[2018.01.28-21.22.19:944][117]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Mannequin/Animations/TrustFall_FreeFall.TrustFall_FreeFall]
+[2018.01.28-21.22.19:944][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/TrustFall_FreeFall]
+[2018.01.28-21.22.19:966][117]LogSavePackage: Save=13.79ms
+[2018.01.28-21.22.19:966][117]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_FreeFall_Auto1E0D1503942FD73A5BCFAA9853C5CB514.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Animations/TrustFall_FreeFall_Auto1.uasset'
+[2018.01.28-21.22.19:967][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Animations/TrustFall_FreeFall_Auto1.uasset
+[2018.01.28-21.22.19:967][117]LogFileHelpers: Auto-saving content packages took 0.211
+[2018.01.28-21.22.28:569][147]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TrustFall_FallingForward_5)
+[2018.01.28-21.22.31:569][503]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TrustFall_Falling_5)
+[2018.01.28-21.22.33:647][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2018.01.28-21.22.35:229][935]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TrustFall_Falling_Right_Turn)
+[2018.01.28-21.22.37:445][197]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TrustFall_Falling_Back_11)
+[2018.01.28-21.22.39:727][467]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (TrustFall_Falling_Left_Turn_4)
+[2018.01.28-21.22.42:593][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.28-21.22.44:350][ 10]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.28-21.23.03:094][246]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.28-21.23.27:149][123]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.Actor_17.DebugSkelMeshComponent_36) Already registered. Aborting.
+[2018.01.28-21.23.27:178][123]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.Actor_17.DebugSkelMeshComponent_36) - call TermArticulated first.
+[2018.01.28-21.23.27:404][123]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.24.40:769][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.Actor_18.DebugSkelMeshComponent_38) Already registered. Aborting.
+[2018.01.28-21.24.40:797][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.Actor_18.DebugSkelMeshComponent_38) - call TermArticulated first.
+[2018.01.28-21.24.41:022][  5]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.26.11:719][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.26.11:747][621]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) - call TermArticulated first.
+[2018.01.28-21.26.11:970][621]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.29.16:860][387]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.16:860][387]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.16:938][387]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.29.28:127][540]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.28:127][540]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.28:201][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.29.37:204][495]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.37:204][495]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.37:277][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.29.43:617][162]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.43:617][162]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.43:698][162]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.29.47:590][552]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.47:590][552]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.47:662][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.29.53:040][114]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.53:040][114]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.53:114][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.29.56:867][487]Cmd: TRANSACTION UNDO
+[2018.01.28-21.29.56:867][487]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.29.56:941][487]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.30.01:922][999]Cmd: TRANSACTION UNDO
+[2018.01.28-21.30.01:922][999]LogEditorTransaction: Undo Translate Bone
+[2018.01.28-21.30.01:995][999]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.Actor_19.DebugSkelMeshComponent_40) Already registered. Aborting.
+[2018.01.28-21.32.05:233][457]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Back.Falling_Back
+[2018.01.28-21.32.37:265][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_53:PersistentLevel.Actor_20.DebugSkelMeshComponent_42) Already registered. Aborting.
+[2018.01.28-21.32.37:294][213]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_53:PersistentLevel.Actor_20.DebugSkelMeshComponent_42) - call TermArticulated first.
+[2018.01.28-21.32.37:516][213]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.34.26:282][498]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_55:PersistentLevel.Actor_21.DebugSkelMeshComponent_44) Already registered. Aborting.
+[2018.01.28-21.34.26:311][498]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_55:PersistentLevel.Actor_21.DebugSkelMeshComponent_44) - call TermArticulated first.
+[2018.01.28-21.34.26:530][498]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.36.15:621][445]LogLinker: Warning: Can't find file '/Game/Falling_Left_Turn'
+[2018.01.28-21.36.15:622][445]LogLinker: Warning: Can't find file '/Game/Falling_Left_Turn'
+[2018.01.28-21.36.15:622][445]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Left_Turn.Falling_Left_Turn'
+[2018.01.28-21.36.18:662][780]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall3' took 0.014
+[2018.01.28-21.36.18:663][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Back] ([1] browsable assets)...
+[2018.01.28-21.36.18:671][780]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Back.Falling_Back]
+[2018.01.28-21.36.18:671][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Back]
+[2018.01.28-21.36.18:671][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Back" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Back_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.01.28-21.36.18:686][780]LogSavePackage: Save=13.26ms
+[2018.01.28-21.36.18:686][780]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Back_Auto2CDBA2CF64A1A8C4698A3538A22B6627F.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Back_Auto2.uasset'
+[2018.01.28-21.36.18:688][780]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Back_Auto2.uasset
+[2018.01.28-21.36.18:688][780]LogFileHelpers: Auto-saving content packages took 0.025
+[2018.01.28-21.36.26:583][708]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Left_Turn.Falling_Left_Turn
+[2018.01.28-21.37.03:650][155]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn'
+[2018.01.28-21.37.03:651][155]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn'
+[2018.01.28-21.37.03:651][155]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Right_Turn.Falling_Right_Turn'
+[2018.01.28-21.37.14:406][407]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Right_Turn.Falling_Right_Turn
+[2018.01.28-21.38.04:836][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.28-21.38.16:875][482]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.Actor_22.DebugSkelMeshComponent_46) Already registered. Aborting.
+[2018.01.28-21.38.16:903][482]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_57:PersistentLevel.Actor_22.DebugSkelMeshComponent_46) - call TermArticulated first.
+[2018.01.28-21.38.17:154][482]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.42.02:861][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.Actor_23.DebugSkelMeshComponent_48) Already registered. Aborting.
+[2018.01.28-21.42.02:890][483]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_59:PersistentLevel.Actor_23.DebugSkelMeshComponent_48) - call TermArticulated first.
+[2018.01.28-21.42.03:110][483]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.45.41:609][781]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_2'
+[2018.01.28-21.45.41:609][781]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_2'
+[2018.01.28-21.45.41:609][781]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Right_Turn_2.Falling_Right_Turn_2'
+[2018.01.28-21.45.53:113][ 84]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Right_Turn_2.Falling_Right_Turn_2
+[2018.01.28-21.47.12:778][803]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.Actor_24.DebugSkelMeshComponent_50) Already registered. Aborting.
+[2018.01.28-21.47.12:808][803]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_61:PersistentLevel.Actor_24.DebugSkelMeshComponent_50) - call TermArticulated first.
+[2018.01.28-21.47.13:034][803]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.48.44:159][282]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_3'
+[2018.01.28-21.48.44:159][282]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_3'
+[2018.01.28-21.48.44:159][282]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Right_Turn_3.Falling_Right_Turn_3'
+[2018.01.28-21.48.47:199][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall3' took 0.013
+[2018.01.28-21.48.47:200][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Right_Turn] ([1] browsable assets)...
+[2018.01.28-21.48.47:208][600]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Right_Turn.Falling_Right_Turn]
+[2018.01.28-21.48.47:208][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Right_Turn]
+[2018.01.28-21.48.47:223][600]LogSavePackage: Save=12.94ms
+[2018.01.28-21.48.47:223][600]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_Auto33316C9CD4FB800B43FEB33945901757F.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_Auto3.uasset'
+[2018.01.28-21.48.47:223][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_Auto3.uasset
+[2018.01.28-21.48.47:224][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Left_Turn] ([1] browsable assets)...
+[2018.01.28-21.48.47:233][600]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Left_Turn.Falling_Left_Turn]
+[2018.01.28-21.48.47:233][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Left_Turn]
+[2018.01.28-21.48.47:247][600]LogSavePackage: Save=12.70ms
+[2018.01.28-21.48.47:247][600]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Left_Turn_Auto31D54DE004391FEFA9B4CA7B0E393E311.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Left_Turn_Auto3.uasset'
+[2018.01.28-21.48.47:247][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Left_Turn_Auto3.uasset
+[2018.01.28-21.48.47:248][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Right_Turn_2] ([1] browsable assets)...
+[2018.01.28-21.48.47:256][600]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Right_Turn_2.Falling_Right_Turn_2]
+[2018.01.28-21.48.47:256][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Right_Turn_2]
+[2018.01.28-21.48.47:270][600]LogSavePackage: Save=12.91ms
+[2018.01.28-21.48.47:270][600]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_2_Auto335470D8A40A797E1083BB197ADEADBEE.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_2_Auto3.uasset'
+[2018.01.28-21.48.47:271][600]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_2_Auto3.uasset
+[2018.01.28-21.48.47:271][600]LogFileHelpers: Auto-saving content packages took 0.072
+[2018.01.28-21.48.54:642][419]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Right_Turn_3.Falling_Right_Turn_3
+[2018.01.28-21.49.34:072][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.Actor_25.DebugSkelMeshComponent_52) Already registered. Aborting.
+[2018.01.28-21.49.34:101][677]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_63:PersistentLevel.Actor_25.DebugSkelMeshComponent_52) - call TermArticulated first.
+[2018.01.28-21.49.34:354][677]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.50.39:593][449]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_4'
+[2018.01.28-21.50.39:593][449]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_4'
+[2018.01.28-21.50.39:593][449]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Right_Turn_4.Falling_Right_Turn_4'
+[2018.01.28-21.50.49:777][551]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Right_Turn_4.Falling_Right_Turn_4
+[2018.01.28-21.50.55:100][122]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_65:PersistentLevel.Actor_26.DebugSkelMeshComponent_54) Already registered. Aborting.
+[2018.01.28-21.50.55:129][122]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_65:PersistentLevel.Actor_26.DebugSkelMeshComponent_54) - call TermArticulated first.
+[2018.01.28-21.50.55:399][122]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.51.37:452][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.Actor_27.DebugSkelMeshComponent_56) Already registered. Aborting.
+[2018.01.28-21.51.37:482][627]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_67:PersistentLevel.Actor_27.DebugSkelMeshComponent_56) - call TermArticulated first.
+[2018.01.28-21.51.37:703][627]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.55.20:214][329]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_5'
+[2018.01.28-21.55.20:214][329]LogLinker: Warning: Can't find file '/Game/Falling_Right_Turn_5'
+[2018.01.28-21.55.20:214][329]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Right_Turn_5.Falling_Right_Turn_5'
+[2018.01.28-21.55.30:637][475]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Right_Turn_5.Falling_Right_Turn_5
+[2018.01.28-21.55.34:515][895]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_69:PersistentLevel.Actor_28.DebugSkelMeshComponent_58) Already registered. Aborting.
+[2018.01.28-21.55.34:544][895]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_69:PersistentLevel.Actor_28.DebugSkelMeshComponent_58) - call TermArticulated first.
+[2018.01.28-21.55.34:783][895]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-21.58.13:875][622]LogLinker: Warning: Can't find file '/Game/Falling_Left_Turn_2'
+[2018.01.28-21.58.13:875][622]LogLinker: Warning: Can't find file '/Game/Falling_Left_Turn_2'
+[2018.01.28-21.58.13:875][622]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Left_Turn_2.Falling_Left_Turn_2'
+[2018.01.28-21.58.24:545][782]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Left_Turn_2.Falling_Left_Turn_2
+[2018.01.28-21.58.42:516][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_71:PersistentLevel.Actor_29.DebugSkelMeshComponent_60) Already registered. Aborting.
+[2018.01.28-21.58.42:545][797]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_71:PersistentLevel.Actor_29.DebugSkelMeshComponent_60) - call TermArticulated first.
+[2018.01.28-21.58.42:767][797]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.04.49:626][501]LogLinker: Warning: Can't find file '/Game/Falling_Forward'
+[2018.01.28-22.04.49:626][501]LogLinker: Warning: Can't find file '/Game/Falling_Forward'
+[2018.01.28-22.04.49:626][501]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Falling_Forward.Falling_Forward'
+[2018.01.28-22.04.52:677][831]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall3' took 0.017
+[2018.01.28-22.04.52:678][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Right_Turn_4] ([1] browsable assets)...
+[2018.01.28-22.04.52:686][831]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Right_Turn_4.Falling_Right_Turn_4]
+[2018.01.28-22.04.52:686][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Right_Turn_4]
+[2018.01.28-22.04.52:701][831]LogSavePackage: Save=13.05ms
+[2018.01.28-22.04.52:701][831]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_4_Auto4841AAAC94A5F67278398A88C99230264.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_4_Auto4.uasset'
+[2018.01.28-22.04.52:702][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_4_Auto4.uasset
+[2018.01.28-22.04.52:702][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Right_Turn_3] ([1] browsable assets)...
+[2018.01.28-22.04.52:711][831]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Right_Turn_3.Falling_Right_Turn_3]
+[2018.01.28-22.04.52:711][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Right_Turn_3]
+[2018.01.28-22.04.52:725][831]LogSavePackage: Save=13.34ms
+[2018.01.28-22.04.52:725][831]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_3_Auto43D05AFAD41ECFE0028C3C5A77F791F4C.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_3_Auto4.uasset'
+[2018.01.28-22.04.52:727][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_3_Auto4.uasset
+[2018.01.28-22.04.52:727][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Right_Turn_5] ([1] browsable assets)...
+[2018.01.28-22.04.52:735][831]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Right_Turn_5.Falling_Right_Turn_5]
+[2018.01.28-22.04.52:735][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Right_Turn_5]
+[2018.01.28-22.04.52:749][831]LogSavePackage: Save=12.83ms
+[2018.01.28-22.04.52:749][831]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_5_Auto4B08A988140E13812861E1EAD62FCAFD9.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_5_Auto4.uasset'
+[2018.01.28-22.04.52:750][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Right_Turn_5_Auto4.uasset
+[2018.01.28-22.04.52:751][831]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Falling_Left_Turn_2] ([1] browsable assets)...
+[2018.01.28-22.04.52:759][831]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Falling_Left_Turn_2.Falling_Left_Turn_2]
+[2018.01.28-22.04.52:759][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Falling_Left_Turn_2]
+[2018.01.28-22.04.52:773][831]LogSavePackage: Save=12.69ms
+[2018.01.28-22.04.52:773][831]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Left_Turn_2_Auto42A1A109F4DEDBB90F58AAD9491A870D8.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Left_Turn_2_Auto4.uasset'
+[2018.01.28-22.04.52:774][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Falling_Left_Turn_2_Auto4.uasset
+[2018.01.28-22.04.52:774][831]LogFileHelpers: Auto-saving content packages took 0.097
+[2018.01.28-22.05.00:084][665]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Falling_Forward.Falling_Forward
+[2018.01.28-22.05.04:378][138]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.Actor_30.DebugSkelMeshComponent_62) Already registered. Aborting.
+[2018.01.28-22.05.04:407][138]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_73:PersistentLevel.Actor_30.DebugSkelMeshComponent_62) - call TermArticulated first.
+[2018.01.28-22.05.04:713][138]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.05.25:073][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_75:PersistentLevel.Actor_31.DebugSkelMeshComponent_64) Already registered. Aborting.
+[2018.01.28-22.05.25:101][345]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_75:PersistentLevel.Actor_31.DebugSkelMeshComponent_64) - call TermArticulated first.
+[2018.01.28-22.05.25:321][345]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.08.30:029][293]LogLinker: Warning: Can't find file '/Game/FreeFall'
+[2018.01.28-22.08.30:029][293]LogLinker: Warning: Can't find file '/Game/FreeFall'
+[2018.01.28-22.08.30:029][293]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FreeFall.FreeFall'
+[2018.01.28-22.08.40:727][560]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FreeFall.FreeFall
+[2018.01.28-22.08.53:167][521]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2018.01.28-22.08.56:831][521]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-22.08.57:204][521]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-22.08.57:208][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrustFall4" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-22.08.57:276][521]LogSavePackage: Save=49.70ms
+[2018.01.28-22.08.57:276][521]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4DCB2747140EBE501E92940AE52AF87D6.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap'
+[2018.01.28-22.08.57:279][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap
+[2018.01.28-22.08.57:283][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrustFall4_BuiltData" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset" SILENT=true
+[2018.01.28-22.08.57:368][521]LogSavePackage: Save=76.81ms
+[2018.01.28-22.08.57:368][521]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4_BuiltDataB518B7AA4DBF340AA4231DBF2CC3599F.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset'
+[2018.01.28-22.08.57:369][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset
+[2018.01.28-22.08.57:371][521]LogFileHelpers: Saving map 'TrustFall4' took 1.761
+[2018.01.28-22.08.57:372][521]Cmd: MAP LOAD FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-22.08.57:377][521]LightingResults: New page: Lighting Build
+[2018.01.28-22.08.57:377][521]LoadErrors: New page: Loading map: TrustFall4.umap
+[2018.01.28-22.08.57:379][521]MapCheck: New page: Map Check
+[2018.01.28-22.08.57:379][521]LightingResults: New page: Lighting Build
+[2018.01.28-22.08.57:512][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-22.08.57:547][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-22.08.57:590][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.343ms to complete.
+[2018.01.28-22.08.57:591][521]LogFileHelpers: Loading map 'TrustFall4' took 0.219
+[2018.01.28-22.09.02:611][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrustFall4" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-22.09.02:683][120]LogSavePackage: Save=49.20ms
+[2018.01.28-22.09.02:683][120]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall41095B09F418A8A1D445130B19D93880E.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap'
+[2018.01.28-22.09.02:685][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4.umap
+[2018.01.28-22.09.02:708][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrustFall4_BuiltData" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset" SILENT=true
+[2018.01.28-22.09.02:789][120]LogSavePackage: Save=77.04ms
+[2018.01.28-22.09.02:789][120]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4_BuiltData6E7B253B469A5B4EB2E5519B1207BDAE.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset'
+[2018.01.28-22.09.02:790][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/TrustFall4_BuiltData.uasset
+[2018.01.28-22.09.05:401][432]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_77:PersistentLevel.Actor_32.DebugSkelMeshComponent_66) Already registered. Aborting.
+[2018.01.28-22.09.05:432][432]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_77:PersistentLevel.Actor_32.DebugSkelMeshComponent_66) - call TermArticulated first.
+[2018.01.28-22.09.05:654][432]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.09.57:212][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Back" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Back.uasset" SILENT=true
+[2018.01.28-22.09.57:229][657]LogSavePackage: Save=14.14ms
+[2018.01.28-22.09.57:229][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Back67C033F24DEC691904177B8C64CA7E5B.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Back.uasset'
+[2018.01.28-22.09.57:241][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Back.uasset
+[2018.01.28-22.09.57:252][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Forward" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Forward.uasset" SILENT=true
+[2018.01.28-22.09.57:266][657]LogSavePackage: Save=13.16ms
+[2018.01.28-22.09.57:266][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_ForwardC2727A6047E35BB6F8FA20AE2928A558.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Forward.uasset'
+[2018.01.28-22.09.57:268][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Forward.uasset
+[2018.01.28-22.09.57:284][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Left_Turn" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Left_Turn.uasset" SILENT=true
+[2018.01.28-22.09.57:311][657]LogSavePackage: Save=24.06ms
+[2018.01.28-22.09.57:311][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Left_Turn5AE4B3E74AB4F1EAAC23E2931028518B.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Left_Turn.uasset'
+[2018.01.28-22.09.57:317][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Left_Turn.uasset
+[2018.01.28-22.09.57:330][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Left_Turn_2" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Left_Turn_2.uasset" SILENT=true
+[2018.01.28-22.09.57:349][657]LogSavePackage: Save=17.08ms
+[2018.01.28-22.09.57:349][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Left_Turn_2F834DBCF426277AD3622B591A8181214.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Left_Turn_2.uasset'
+[2018.01.28-22.09.57:356][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Left_Turn_2.uasset
+[2018.01.28-22.09.57:372][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Right_Turn" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn.uasset" SILENT=true
+[2018.01.28-22.09.57:400][657]LogSavePackage: Save=24.77ms
+[2018.01.28-22.09.57:400][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_TurnE1753EAE4057900030878CB0C81B90CB.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn.uasset'
+[2018.01.28-22.09.57:406][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn.uasset
+[2018.01.28-22.09.57:418][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Right_Turn_2" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_2.uasset" SILENT=true
+[2018.01.28-22.09.57:436][657]LogSavePackage: Save=15.58ms
+[2018.01.28-22.09.57:436][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_271D53FF9418A7AABFC7B219D93043FD2.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_2.uasset'
+[2018.01.28-22.09.57:442][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_2.uasset
+[2018.01.28-22.09.57:454][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Right_Turn_3" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_3.uasset" SILENT=true
+[2018.01.28-22.09.57:471][657]LogSavePackage: Save=15.38ms
+[2018.01.28-22.09.57:471][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_30D2D36E24843DF1EF757A2B6E7E00656.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_3.uasset'
+[2018.01.28-22.09.57:477][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_3.uasset
+[2018.01.28-22.09.57:489][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Right_Turn_4" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_4.uasset" SILENT=true
+[2018.01.28-22.09.57:503][657]LogSavePackage: Save=12.77ms
+[2018.01.28-22.09.57:503][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_41435A230431390CA0D90D195EAE0F16E.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_4.uasset'
+[2018.01.28-22.09.57:508][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_4.uasset
+[2018.01.28-22.09.57:518][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Falling_Right_Turn_5" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_5.uasset" SILENT=true
+[2018.01.28-22.09.57:532][657]LogSavePackage: Save=12.76ms
+[2018.01.28-22.09.57:532][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Falling_Right_Turn_541D61A274724A5BAC0E0E5A0E82D73F0.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_5.uasset'
+[2018.01.28-22.09.57:537][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Falling_Right_Turn_5.uasset
+[2018.01.28-22.09.57:548][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FreeFall" FILE="../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/FreeFall.uasset" SILENT=true
+[2018.01.28-22.09.57:562][657]LogSavePackage: Save=12.51ms
+[2018.01.28-22.09.57:562][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/FreeFallDE123B8F46C479B2DDAD099813D661AB.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/FreeFall.uasset'
+[2018.01.28-22.09.57:564][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/FreeFall.uasset
+[2018.01.28-22.09.57:578][657]LogSavePackage: Save=4.76ms
+[2018.01.28-22.09.57:578][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_FallingForward_5F7E76F894156114AFB6976A00FB7369C.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_FallingForward_5.uasset'
+[2018.01.28-22.09.57:582][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_FallingForward_5.uasset
+[2018.01.28-22.09.57:611][657]LogSavePackage: Save=10.83ms
+[2018.01.28-22.09.57:611][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall_FreeFallB704594847435E750B8FDE8354CB428B.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_FreeFall.uasset'
+[2018.01.28-22.09.57:615][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Animations/TrustFall_FreeFall.uasset
+[2018.01.28-22.09.57:713][657]LogSavePackage: Save=89.03ms
+[2018.01.28-22.09.57:713][657]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP1BF29CF54D91B89752A65CACA15FCA6E.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-22.09.57:717][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-22.14.59:110][561]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_82:PersistentLevel.Actor_33.DebugSkelMeshComponent_68) Already registered. Aborting.
+[2018.01.28-22.14.59:280][561]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_82:PersistentLevel.Actor_33.DebugSkelMeshComponent_68) - call TermArticulated first.
+[2018.01.28-22.14.59:495][561]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.20.37:662][  2]LogSavePackage: Save=49.29ms
+[2018.01.28-22.20.37:662][  2]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4_Auto5809B12824E40B7275183C395C6D3DBDC.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/TrustFall4_Auto5.umap'
+[2018.01.28-22.20.37:665][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/TrustFall4_Auto5.umap
+[2018.01.28-22.20.37:667][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall4' took 0.083
+[2018.01.28-22.20.37:667][  2]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2018.01.28-22.20.37:668][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_AnimBP] ([1] browsable assets)...
+[2018.01.28-22.20.37:677][  2]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Character/Character_AnimBP.Character_AnimBP]
+[2018.01.28-22.20.37:677][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_AnimBP]
+[2018.01.28-22.20.37:782][  2]LogSavePackage: Save=97.85ms
+[2018.01.28-22.20.37:782][  2]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP_Auto5EEBFD053400A058987028C994BA1D4FC.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto5.uasset'
+[2018.01.28-22.20.37:783][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto5.uasset
+[2018.01.28-22.20.37:784][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_BP] ([1] browsable assets)...
+[2018.01.28-22.20.37:793][  2]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Mannequin/Character/Character_BP.Character_BP]
+[2018.01.28-22.20.37:793][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_BP]
+[2018.01.28-22.20.37:860][  2]LogSavePackage: Save=60.00ms
+[2018.01.28-22.20.37:860][  2]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_BP_Auto5CC3D908A4655F747D85E93A306AEA8DD.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_BP_Auto5.uasset'
+[2018.01.28-22.20.37:861][  2]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_BP_Auto5.uasset
+[2018.01.28-22.20.37:861][  2]LogFileHelpers: Auto-saving content packages took 0.194
+[2018.01.28-22.22.26:653][994]BlueprintLog: New page: Compile Character_BP
+[2018.01.28-22.22.28:201][136]LogSavePackage: Save=62.99ms
+[2018.01.28-22.22.28:201][136]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_BPEBC76EA441836FA9B78AFDB7B02E5226.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_BP.uasset'
+[2018.01.28-22.22.28:209][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_BP.uasset
+[2018.01.28-22.22.59:753][904]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-22.23.40:429][751]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-22.23.55:904][580]BlueprintLog: New page: Compile Character_BP
+[2018.01.28-22.24.21:128][559]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-22.28.49:952][688]LogSlate: Took 0.004007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.28-22.30.27:235][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_86:PersistentLevel.Actor_34.DebugSkelMeshComponent_70) Already registered. Aborting.
+[2018.01.28-22.30.27:401][144]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_86:PersistentLevel.Actor_34.DebugSkelMeshComponent_70) - call TermArticulated first.
+[2018.01.28-22.30.27:634][144]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.33.45:257][702]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_88:PersistentLevel.Actor_35.DebugSkelMeshComponent_72) Already registered. Aborting.
+[2018.01.28-22.33.45:277][702]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_88:PersistentLevel.Actor_35.DebugSkelMeshComponent_72) - call TermArticulated first.
+[2018.01.28-22.33.45:513][702]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.34.30:281][ 53]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-22.36.09:003][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.Actor_36.DebugSkelMeshComponent_74) Already registered. Aborting.
+[2018.01.28-22.36.09:169][783]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_92:PersistentLevel.Actor_36.DebugSkelMeshComponent_74) - call TermArticulated first.
+[2018.01.28-22.36.09:450][783]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.36.39:645][319]BlueprintLog: New page: Compile Character_BP
+[2018.01.28-22.37.29:998][602]LogSavePackage: Save=49.42ms
+[2018.01.28-22.37.29:998][602]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4_Auto64D6DDE124B556575F70890BBDCF65FF2.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/TrustFall4_Auto6.umap'
+[2018.01.28-22.37.30:000][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/TrustFall4_Auto6.umap
+[2018.01.28-22.37.30:001][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall4' took 0.098
+[2018.01.28-22.37.30:001][602]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2018.01.28-22.37.30:002][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_AnimBP] ([1] browsable assets)...
+[2018.01.28-22.37.30:018][602]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Character/Character_AnimBP.Character_AnimBP]
+[2018.01.28-22.37.30:018][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_AnimBP]
+[2018.01.28-22.37.30:369][602]LogSavePackage: Save=334.40ms
+[2018.01.28-22.37.30:369][602]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP_Auto68035AC3A41CEBBDF61753FAF82DED236.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto6.uasset'
+[2018.01.28-22.37.30:371][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto6.uasset
+[2018.01.28-22.37.30:371][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_BP] ([1] browsable assets)...
+[2018.01.28-22.37.30:382][602]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Mannequin/Character/Character_BP.Character_BP]
+[2018.01.28-22.37.30:382][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_BP]
+[2018.01.28-22.37.30:463][602]LogSavePackage: Save=70.95ms
+[2018.01.28-22.37.30:463][602]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_BP_Auto67EE6CAAF425C6739CE60B986F04E6087.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_BP_Auto6.uasset'
+[2018.01.28-22.37.30:464][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_BP_Auto6.uasset
+[2018.01.28-22.37.30:464][602]LogFileHelpers: Auto-saving content packages took 0.463
+[2018.01.28-22.48.02:480][581]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.Actor_37.DebugSkelMeshComponent_76) Already registered. Aborting.
+[2018.01.28-22.48.02:650][581]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_96:PersistentLevel.Actor_37.DebugSkelMeshComponent_76) - call TermArticulated first.
+[2018.01.28-22.48.02:849][581]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.50.47:226][975]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall4' took 0.028
+[2018.01.28-22.50.47:227][975]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_AnimBP] ([1] browsable assets)...
+[2018.01.28-22.50.47:236][975]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Character/Character_AnimBP.Character_AnimBP]
+[2018.01.28-22.50.47:236][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_AnimBP]
+[2018.01.28-22.50.47:350][975]LogSavePackage: Save=103.53ms
+[2018.01.28-22.50.47:350][975]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP_Auto76D5370644398C07F70B9B2A412AE85CC.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto7.uasset'
+[2018.01.28-22.50.47:352][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto7.uasset
+[2018.01.28-22.50.47:352][975]LogFileHelpers: Auto-saving content packages took 0.125
+[2018.01.28-22.52.57:025][431]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.Actor_38.DebugSkelMeshComponent_78) Already registered. Aborting.
+[2018.01.28-22.52.57:190][431]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_100:PersistentLevel.Actor_38.DebugSkelMeshComponent_78) - call TermArticulated first.
+[2018.01.28-22.52.57:426][431]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.53.45:268][ 98]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.53.45:446][ 98]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) - call TermArticulated first.
+[2018.01.28-22.53.45:657][ 98]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.54.20:082][218]LogEditorTransaction: Undo Delete current selection
+[2018.01.28-22.54.20:171][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.20:427][246]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.20:516][246]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.20:657][261]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.20:746][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.20:962][285]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.28-22.54.21:051][285]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.21:285][311]LogEditorTransaction: Undo Delete current selection
+[2018.01.28-22.54.21:374][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.22:398][432]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.22:478][432]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.22:741][462]LogEditorTransaction: Undo Add Node
+[2018.01.28-22.54.22:860][462]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.23:083][487]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.23:173][487]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.23:730][552]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.23:819][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.24:234][600]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.24:314][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.24:784][655]LogEditorTransaction: Undo Delete current selection
+[2018.01.28-22.54.24:902][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.25:401][713]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.25:507][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.25:956][765]LogEditorTransaction: Undo Add Node
+[2018.01.28-22.54.26:044][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.26:459][813]LogEditorTransaction: Undo Delete current selection
+[2018.01.28-22.54.26:578][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.27:010][863]LogEditorTransaction: Undo Add Node
+[2018.01.28-22.54.27:116][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.27:465][903]LogEditorTransaction: Undo Remove Variable
+[2018.01.28-22.54.27:552][903]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.27:949][949]LogEditorTransaction: Undo Change Variable Type
+[2018.01.28-22.54.28:033][949]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.28:488][  2]LogEditorTransaction: Undo Change Variable Type
+[2018.01.28-22.54.28:575][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.29:046][ 57]LogEditorTransaction: Undo Change Variable Type
+[2018.01.28-22.54.29:131][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.29:611][113]LogEditorTransaction: Undo Change Variable Type
+[2018.01.28-22.54.29:696][113]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.30:102][158]LogEditorTransaction: Undo Duplicate Variable
+[2018.01.28-22.54.30:186][158]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.30:558][201]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.30:642][201]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.31:239][271]LogEditorTransaction: Undo Delete current selection
+[2018.01.28-22.54.31:327][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.31:976][347]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.32:064][347]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.32:596][409]LogEditorTransaction: Undo Add Node
+[2018.01.28-22.54.32:684][409]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.35:725][772]LogEditorTransaction: Undo Remove Variable
+[2018.01.28-22.54.35:814][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.36:233][819]LogEditorTransaction: Undo Add Variable
+[2018.01.28-22.54.36:323][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.36:997][898]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.37:081][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.37:770][979]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.37:852][979]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.38:425][ 46]LogEditorTransaction: Undo Rename Variable
+[2018.01.28-22.54.38:510][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.39:092][114]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.39:176][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.39:572][160]LogEditorTransaction: Undo Promote To Variable
+[2018.01.28-22.54.39:659][160]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.39:924][190]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.40:008][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.40:139][204]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.40:219][204]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.40:339][217]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.40:423][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.40:520][227]LogEditorTransaction: Undo Resize Node
+[2018.01.28-22.54.40:604][227]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.40:725][240]LogEditorTransaction: Undo Move Node
+[2018.01.28-22.54.40:807][240]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.40:996][261]LogEditorTransaction: Undo Rename Variable
+[2018.01.28-22.54.41:082][261]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.41:420][300]LogEditorTransaction: Undo Promote To Variable
+[2018.01.28-22.54.41:506][300]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.41:762][329]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.41:842][329]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.42:114][360]LogEditorTransaction: Undo Create Pin Link
+[2018.01.28-22.54.42:210][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.54.42:539][397]LogEditorTransaction: Undo Paste clipboard contents
+[2018.01.28-22.54.42:628][397]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.32:929][ 32]LogEditorTransaction: Redo Paste clipboard contents
+[2018.01.28-22.55.33:018][ 32]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.34:083][157]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.34:163][157]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.34:253][167]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.34:332][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.34:430][178]LogEditorTransaction: Redo Promote To Variable
+[2018.01.28-22.55.34:432][178]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.34:517][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.34:616][189]LogEditorTransaction: Redo Rename Variable
+[2018.01.28-22.55.34:618][189]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.34:703][189]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.34:802][200]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.34:885][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.34:976][210]LogEditorTransaction: Redo Resize Node
+[2018.01.28-22.55.35:058][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.35:140][219]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.35:223][219]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.35:297][227]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.35:381][227]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.35:446][234]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.35:530][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.35:595][241]LogEditorTransaction: Redo Promote To Variable
+[2018.01.28-22.55.35:597][241]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.35:682][241]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.35:748][248]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.35:830][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.35:913][257]LogEditorTransaction: Redo Rename Variable
+[2018.01.28-22.55.35:914][257]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.36:000][257]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.36:074][265]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.36:156][265]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.36:231][273]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.36:314][273]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.36:396][282]LogEditorTransaction: Redo Add Variable
+[2018.01.28-22.55.36:484][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.36:561][289]LogEditorTransaction: Redo Remove Variable
+[2018.01.28-22.55.36:650][289]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.36:733][297]LogEditorTransaction: Redo Add Node
+[2018.01.28-22.55.36:822][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.36:912][306]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.37:000][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.37:090][315]LogEditorTransaction: Redo Delete current selection
+[2018.01.28-22.55.37:178][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.37:268][324]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.37:371][324]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.37:521][341]LogEditorTransaction: Redo Duplicate Variable
+[2018.01.28-22.55.37:523][341]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.37:608][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.37:799][363]LogEditorTransaction: Redo Change Variable Type
+[2018.01.28-22.55.37:800][363]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.37:885][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.38:101][388]LogEditorTransaction: Redo Change Variable Type
+[2018.01.28-22.55.38:103][388]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.38:188][388]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.38:253][395]LogEditorTransaction: Redo Change Variable Type
+[2018.01.28-22.55.38:255][395]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.38:340][395]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.38:430][405]LogEditorTransaction: Redo Change Variable Type
+[2018.01.28-22.55.38:432][405]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.38:517][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.38:615][416]LogEditorTransaction: Redo Remove Variable
+[2018.01.28-22.55.38:617][416]LogActorComponent: ~FComponentReregisterContext: (/Game/TrustFall4.TrustFall4:PersistentLevel.Character_BP_1148.CollisionCylinder) Component already registered.
+[2018.01.28-22.55.38:702][416]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.38:809][428]LogEditorTransaction: Redo Add Node
+[2018.01.28-22.55.38:897][428]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.40:912][668]LogEditorTransaction: Redo Delete current selection
+[2018.01.28-22.55.41:001][668]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.41:166][686]LogEditorTransaction: Redo Add Node
+[2018.01.28-22.55.41:254][686]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.41:420][704]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.41:509][704]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.41:666][721]LogEditorTransaction: Redo Delete current selection
+[2018.01.28-22.55.41:755][721]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.41:904][737]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.41:984][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.42:149][756]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.42:238][756]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.42:396][773]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.42:485][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.42:650][791]LogEditorTransaction: Redo Add Node
+[2018.01.28-22.55.42:739][791]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.42:920][811]LogEditorTransaction: Redo Create Pin Link
+[2018.01.28-22.55.43:002][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.43:201][834]LogEditorTransaction: Redo Delete current selection
+[2018.01.28-22.55.43:289][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.43:457][852]LogEditorTransaction: Redo Paste clipboard contents
+[2018.01.28-22.55.43:545][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.43:708][868]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.43:796][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.43:970][887]LogEditorTransaction: Redo Move Node
+[2018.01.28-22.55.44:059][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.44:241][907]LogEditorTransaction: Redo Delete current selection
+[2018.01.28-22.55.44:330][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.44:531][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.55.44:822][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_39.DebugSkelMeshComponent_80) Already registered. Aborting.
+[2018.01.28-22.56.12:553][ 91]LogRenderer: Reallocating scene render targets to support 808x464 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-22.56.29:962][155]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.Actor_40.DebugSkelMeshComponent_82) Already registered. Aborting.
+[2018.01.28-22.56.30:125][155]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_107:PersistentLevel.Actor_40.DebugSkelMeshComponent_82) - call TermArticulated first.
+[2018.01.28-22.56.30:324][155]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-22.57.03:408][107]LogEditorTransaction: Undo Rename Variable
+[2018.01.28-22.57.03:490][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.Actor_40.DebugSkelMeshComponent_82) Already registered. Aborting.
+[2018.01.28-23.02.05:477][179]LogSavePackage: Save=56.84ms
+[2018.01.28-23.02.05:477][179]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/TrustFall4_Auto8ED7A55C846BE140186BE568E34614D65.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/TrustFall4_Auto8.umap'
+[2018.01.28-23.02.05:478][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/TrustFall4_Auto8.umap
+[2018.01.28-23.02.05:480][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TrustFall4' took 0.130
+[2018.01.28-23.02.05:480][179]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.130
+[2018.01.28-23.02.05:481][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_AnimBP] ([1] browsable assets)...
+[2018.01.28-23.02.05:490][179]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Character/Character_AnimBP.Character_AnimBP]
+[2018.01.28-23.02.05:490][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_AnimBP]
+[2018.01.28-23.02.05:599][179]LogSavePackage: Save=99.80ms
+[2018.01.28-23.02.05:599][179]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP_Auto881B4DBE24B8BFD5711217E870A0AA0EF.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto8.uasset'
+[2018.01.28-23.02.05:600][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_AnimBP_Auto8.uasset
+[2018.01.28-23.02.05:600][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Character_BP] ([1] browsable assets)...
+[2018.01.28-23.02.05:608][179]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Mannequin/Character/Character_BP.Character_BP]
+[2018.01.28-23.02.05:608][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Character_BP]
+[2018.01.28-23.02.05:749][179]LogSavePackage: Save=129.86ms
+[2018.01.28-23.02.05:749][179]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_BP_Auto8DDD0ADF94ECD2EB2E4F5BFBA21D16D4C.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_BP_Auto8.uasset'
+[2018.01.28-23.02.05:750][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Autosaves/Game/Mannequin/Character/Character_BP_Auto8.uasset
+[2018.01.28-23.02.05:750][179]LogFileHelpers: Auto-saving content packages took 0.270
+[2018.01.28-23.04.44:530][965]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-23.05.39:685][481]LogSavePackage: Save=107.96ms
+[2018.01.28-23.05.39:686][481]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBPB8A90BEA4D5442448DB741B5A36BEF57.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-23.05.39:694][481]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-23.05.40:789][612]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-23.05.46:760][302]LogSavePackage: Save=55.71ms
+[2018.01.28-23.05.46:760][302]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_BP5BA1745548AFD4F790247F98072B1351.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_BP.uasset'
+[2018.01.28-23.05.46:765][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_BP.uasset
+[2018.01.28-23.05.47:472][386]BlueprintLog: New page: Compile Character_BP
+[2018.01.28-23.05.51:738][855]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-23.05.52:976][975]LogSavePackage: Save=106.75ms
+[2018.01.28-23.05.52:976][975]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBPED7AA7424CF924024603CB93AE497544.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-23.05.52:977][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-23.05.55:869][292]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.05.55:883][292]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.05.55:883][292]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.05.55:884][292]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:05:55 AM)
+[2018.01.28-23.05.55:884][292]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.05.55:897][292]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013372s)
+[2018.01.28-23.05.55:898][292]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.05.55:898][292]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2018.01.28-23.05.55:898][292]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.014690s)
+[2018.01.28-23.05.55:918][292]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.05.55:923][292]LogInit: FAudioDevice initialized.
+[2018.01.28-23.05.55:956][292]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.05.55:969][292]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.05.55
+[2018.01.28-23.05.55:971][292]LogWorld: Bringing up level for play took: 0.013767
+[2018.01.28-23.05.55:975][292]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 0.312
+[2018.01.28-23.05.55:976][292]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.06.06:304][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.06.06:342][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.06.26:181][847]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_112:PersistentLevel.Actor_41.DebugSkelMeshComponent_84) Already registered. Aborting.
+[2018.01.28-23.06.26:348][847]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_112:PersistentLevel.Actor_41.DebugSkelMeshComponent_84) - call TermArticulated first.
+[2018.01.28-23.06.26:557][847]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-23.07.22:480][526]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_114:PersistentLevel.Actor_42.DebugSkelMeshComponent_86) Already registered. Aborting.
+[2018.01.28-23.07.22:501][526]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_114:PersistentLevel.Actor_42.DebugSkelMeshComponent_86) - call TermArticulated first.
+[2018.01.28-23.07.22:709][526]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-23.08.02:484][180]BlueprintLog: New page: Compile Character_BP
+[2018.01.28-23.08.09:446][973]BlueprintLog: New page: Compile Character_BP
+[2018.01.28-23.08.10:483][ 50]LogSavePackage: Save=59.09ms
+[2018.01.28-23.08.10:483][ 50]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_BP636F302D4A1AB0162E2649BCACBEFE02.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_BP.uasset'
+[2018.01.28-23.08.10:485][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_BP.uasset
+[2018.01.28-23.08.13:774][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_118:PersistentLevel.Actor_43.DebugSkelMeshComponent_88) Already registered. Aborting.
+[2018.01.28-23.08.13:937][436]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_118:PersistentLevel.Actor_43.DebugSkelMeshComponent_88) - call TermArticulated first.
+[2018.01.28-23.08.14:146][436]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-23.08.17:134][786]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-23.08.18:084][870]LogSavePackage: Save=105.77ms
+[2018.01.28-23.08.18:084][870]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBPC6C0DD484EE995F221D2A890FAB42F6F.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-23.08.18:085][870]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-23.08.20:853][198]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.08.20:866][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.08.20:867][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.08.20:867][198]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:08:20 AM)
+[2018.01.28-23.08.20:867][198]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.08.20:878][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011133s)
+[2018.01.28-23.08.20:878][198]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.08.20:879][198]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2018.01.28-23.08.20:879][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.012299s)
+[2018.01.28-23.08.20:899][198]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.08.20:904][198]LogInit: FAudioDevice initialized.
+[2018.01.28-23.08.20:935][198]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.08.20:938][198]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.08.20
+[2018.01.28-23.08.20:939][198]LogWorld: Bringing up level for play took: 0.002804
+[2018.01.28-23.08.20:939][198]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 -0.724
+[2018.01.28-23.08.20:940][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.08.29:524][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.08.29:557][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.08.41:041][584]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.Actor_44.DebugSkelMeshComponent_90) Already registered. Aborting.
+[2018.01.28-23.08.41:061][584]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_120:PersistentLevel.Actor_44.DebugSkelMeshComponent_90) - call TermArticulated first.
+[2018.01.28-23.08.41:283][584]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-23.09.10:575][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.09.10:588][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.10:588][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.09.10:588][ 68]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:09:10 AM)
+[2018.01.28-23.09.10:588][ 68]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.09.10:599][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010521s)
+[2018.01.28-23.09.10:600][ 68]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.09.10:600][ 68]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2018.01.28-23.09.10:600][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.011970s)
+[2018.01.28-23.09.10:619][ 68]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.09.10:623][ 68]LogInit: FAudioDevice initialized.
+[2018.01.28-23.09.10:653][ 68]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.09.10:657][ 68]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.09.10
+[2018.01.28-23.09.10:658][ 68]LogWorld: Bringing up level for play took: 0.005172
+[2018.01.28-23.09.10:660][ 68]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 0.997
+[2018.01.28-23.09.10:661][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.14:322][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.14:351][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.17:351][851]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.09.17:365][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.17:365][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.09.17:365][851]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:09:17 AM)
+[2018.01.28-23.09.17:365][851]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.09.17:376][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010865s)
+[2018.01.28-23.09.17:377][851]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.09.17:377][851]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.01.28-23.09.17:377][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.012018s)
+[2018.01.28-23.09.17:394][851]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.09.17:399][851]LogInit: FAudioDevice initialized.
+[2018.01.28-23.09.17:426][851]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.09.17:429][851]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.09.17
+[2018.01.28-23.09.17:430][851]LogWorld: Bringing up level for play took: 0.002675
+[2018.01.28-23.09.17:430][851]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 -0.233
+[2018.01.28-23.09.17:431][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.32:781][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.32:808][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.34:468][887]BlueprintLog: New page: Compile Character_AnimBP
+[2018.01.28-23.09.35:491][981]LogSavePackage: Save=107.56ms
+[2018.01.28-23.09.35:491][981]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBP2E590D9E44EB3F596A98579A5B1ED65A.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-23.09.35:493][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-23.09.40:607][588]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.09.40:620][588]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.40:620][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.09.40:620][588]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:09:40 AM)
+[2018.01.28-23.09.40:621][588]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.09.40:632][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010667s)
+[2018.01.28-23.09.40:632][588]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.09.40:633][588]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.01.28-23.09.40:633][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.011819s)
+[2018.01.28-23.09.40:651][588]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.09.40:655][588]LogInit: FAudioDevice initialized.
+[2018.01.28-23.09.40:682][588]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.09.40:685][588]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.09.40
+[2018.01.28-23.09.40:685][588]LogWorld: Bringing up level for play took: 0.002685
+[2018.01.28-23.09.40:686][588]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 1.023
+[2018.01.28-23.09.40:686][588]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.43:564][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.09.43:597][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.10.15:652][750]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.10.15:665][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.10.15:665][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-23.10.15:666][750]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:10:15 AM)
+[2018.01.28-23.10.15:666][750]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.10.15:681][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015325s)
+[2018.01.28-23.10.15:681][750]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.10.15:682][750]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2018.01.28-23.10.15:682][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.016107s)
+[2018.01.28-23.10.15:699][750]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.10.15:703][750]LogInit: FAudioDevice initialized.
+[2018.01.28-23.10.15:732][750]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.10.15:735][750]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.10.15
+[2018.01.28-23.10.15:735][750]LogWorld: Bringing up level for play took: 0.002653
+[2018.01.28-23.10.15:736][750]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 0.073
+[2018.01.28-23.10.15:736][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.11.06:219][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.11.06:252][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.11.19:302][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_124:PersistentLevel.Actor_45.DebugSkelMeshComponent_92) Already registered. Aborting.
+[2018.01.28-23.11.19:466][321]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_124:PersistentLevel.Actor_45.DebugSkelMeshComponent_92) - call TermArticulated first.
+[2018.01.28-23.11.19:687][321]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-23.14.01:221][387]LogSavePackage: Save=106.32ms
+[2018.01.28-23.14.01:222][387]LogSavePackage: Moving '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Saved/Character_AnimBPC3173195456E21093D5E17953B379D2D.tmp' to '../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset'
+[2018.01.28-23.14.01:224][387]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Stan/Documents/Unreal Projects/TrustFall 4.17/Content/Mannequin/Character/Character_AnimBP.uasset
+[2018.01.28-23.14.05:540][891]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-23.14.05:554][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.14.05:554][891]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-23.14.05:562][891]LogPlayLevel: [PlayLevel] Compiling Character_AnimBP before play...
+[2018.01.28-23.14.05:661][891]LogPlayLevel: PlayLevel: Blueprint regeneration took 107 ms (1 blueprints)
+[2018.01.28-23.14.05:661][891]PIE: New page: PIE session: TrustFall4 (Jan 28, 2018, 11:14:05 AM)
+[2018.01.28-23.14.05:661][891]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TrustFall4
+[2018.01.28-23.14.05:671][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010504s)
+[2018.01.28-23.14.05:672][891]LogAIModule: Creating AISystem for world TrustFall4
+[2018.01.28-23.14.05:672][891]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2018.01.28-23.14.05:672][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TrustFall4.TrustFall4 to /Game/UEDPIE_0_TrustFall4.TrustFall4 (0.011341s)
+[2018.01.28-23.14.05:690][891]LogInit: XAudio2 using 'NS-32D120A13-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.28-23.14.05:695][891]LogInit: FAudioDevice initialized.
+[2018.01.28-23.14.05:726][891]LogLoad: Game class is 'MyGame_C'
+[2018.01.28-23.14.05:729][891]LogWorld: Bringing World /Game/UEDPIE_0_TrustFall4.TrustFall4 up for play (max tick rate 0) at 2018.01.28-17.14.05
+[2018.01.28-23.14.05:730][891]LogWorld: Bringing up level for play took: 0.002677
+[2018.01.28-23.14.05:731][891]PIE: Play in editor start time for /Game/UEDPIE_0_TrustFall4 0.068
+[2018.01.28-23.14.05:731][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.14.12:371][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.14.12:398][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TrustFall4.TrustFall4:PersistentLevel' has LevelScriptBlueprint '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4' with GeneratedClass '/Game/TrustFall4.TrustFall4_C' with ClassGeneratedBy '/Game/TrustFall4.TrustFall4:PersistentLevel.TrustFall4'
+[2018.01.28-23.18.33:510][167]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_128:PersistentLevel.Actor_46.DebugSkelMeshComponent_94) Already registered. Aborting.
+[2018.01.28-23.18.33:676][167]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_128:PersistentLevel.Actor_46.DebugSkelMeshComponent_94) - call TermArticulated first.
+[2018.01.28-23.18.33:899][167]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.01.28-23.18.36:759][475]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.207 s
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: 
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: Ensure condition failed: ClassOwner [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\EdGraphSchema_K2.cpp] [Line: 6116]
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: Wrong class owner of signature /Script/Engine.InputAxisHandlerDynamicSignature__DelegateSignature in node /Game/Mannequin/Character/Character_AnimBP.Character_AnimBP:EventGraph.K2Node_InputAxisEvent_1
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: Stack: 
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000606C3E36
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006044C2D2
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000060464746
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x0000000057B36E97
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DEFD3BF
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005E0CE1BA
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DEE32F3
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000588408CD
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000588406AF
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000587C9451
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x00000000587CE1B6
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F777DD0
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F7B6850
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000005724FFAD
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F764761
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F7360BE
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F737CC6
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F7B80B7
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F7A9B18
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006069B498
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000060683EE1
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006069D5BB
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006067F042
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: USER32.dll!0x000000009FA2B85D
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: USER32.dll!0x000000009FA2B1EF
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006069DCC6
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor.exe!0x0000000054974BE2
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor.exe!0x0000000054983970
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor.exe!0x00000000549839EA
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor.exe!0x00000000549902D9
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: UE4Editor.exe!0x0000000054991C47
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: KERNEL32.DLL!0x000000009FD91FE4
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: ntdll.dll!0x00000000A1D4EFB1
+[2018.01.28-23.18.36:759][475]LogOutputDevice: Error: 
+[2018.01.28-23.18.36:769][475]LogStats:                SubmitErrorReport -  0.000 s
